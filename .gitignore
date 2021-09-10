@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/AWSServerless_POC/obj/Debug/netcoreapp3.1
+/AWSServerless_POC/.vs/AWSServerless_POC/v16
