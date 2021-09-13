@@ -5,3 +5,10 @@
 /.vs
 /AWSServerless_POC/obj/Debug/netcoreapp3.1
 /AWSServerless_POC/.vs/AWSServerless_POC/v16
+/AWSLambda1/obj
+/AWSLambda1/.lambda-test-tool/SavedRequests
+/AWSLambda1/.vs/AWSLambda1
+/AWSServerless2/.lambda-test-tool/SavedRequests
+/AWSServerless2/.vs/AWSServerless2
+/AWSServerless2/bin
+/AWSServerless2/obj
